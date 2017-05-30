@@ -1,0 +1,17 @@
+{
+  "name": "bootswatch",
+  "homepage": "https://github.com/ctpc/deephealth-template",
+  "authors": [
+    "Iman Khaghani Far <iman.khaghani@gmail.com>"
+  ],
+  "description": "deephealth lab bootstrap template",
+  "main": "paper/bootstrap.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
